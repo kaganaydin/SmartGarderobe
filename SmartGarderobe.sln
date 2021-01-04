@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGarderobe", "SmartGarderobe\SmartGarderobe.csproj", "{2F187E96-01F5-4205-9CB3-C1E004B488FE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSmartGarderobe", "SetupSmartGarderobe\SetupSmartGarderobe.vdproj", "{C15AAF1F-4BDE-4BAE-99B2-73F674BDA359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F187E96-01F5-4205-9CB3-C1E004B488FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F187E96-01F5-4205-9CB3-C1E004B488FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F187E96-01F5-4205-9CB3-C1E004B488FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F187E96-01F5-4205-9CB3-C1E004B488FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15AAF1F-4BDE-4BAE-99B2-73F674BDA359}.Debug|Any CPU.ActiveCfg = Debug
+		{C15AAF1F-4BDE-4BAE-99B2-73F674BDA359}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
